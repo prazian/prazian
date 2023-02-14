@@ -29,7 +29,8 @@
   - DigitalOcean (a bit)
 - 📢 Hobby projects:
   - [SpeakM8.com](https://speakm8.com)
-  - [DigiWolk.com](https://dashboard.digiwolk.com)
+  - [DigiWolk.com](https://dashboard.digiwolk.com) (is not up and running these days)
+  - a few more ...
 - ✍️ I write articles at:
   - [pooyan.info/articles](https://pooyan.info/articles/)
   - [medium.com/@pooyan_razian](https://medium.com/@pooyan_razian)

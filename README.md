@@ -26,8 +26,8 @@
   - Azure (a bit)
   - Digital Ocean (a bit)
 - 📢 Hobby projects:
-  - [SpeakM8.com](speakm8.com)
-  - [DigiWolk.com](dashboard.digiwolk.com)
+  - [SpeakM8.com](https://speakm8.com)
+  - [DigiWolk.com](https://dashboard.digiwolk.com)
 - ✍️ I write article at:
   - [pooyan.info/articles](https://pooyan.info/articles/)
   - [medium.com/@pooyan_razian](https://medium.com/@pooyan_razian)

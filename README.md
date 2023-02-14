@@ -26,7 +26,7 @@
   - AWS (Mainly)
   - GCP (a bit)
   - Azure (a bit)
-  - Digital Ocean (a bit)
+  - DigitalOcean (a bit)
 - 📢 Hobby projects:
   - [SpeakM8.com](https://speakm8.com)
   - [DigiWolk.com](https://dashboard.digiwolk.com)

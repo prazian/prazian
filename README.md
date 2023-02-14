@@ -17,6 +17,7 @@
   - Used to work as a __Tech lead__
   - Used to work as a __Backend Developer__
   - Used to work as a __Fullstack Developer__
+  - Used to work as a __consultant__
   - Used to have physical access to multiple large-scale Datacenters
   - Have worked for B2C, B2B, C2B, Telecom, Martech, Fintech, Uber-like Platform businesses, SaaS, etc.
   - Have worked for businesses in different countries (Denmark, Sweden, Germany, ...)

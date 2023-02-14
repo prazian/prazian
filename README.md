@@ -11,15 +11,15 @@
   - LinkedIn: [linkedin.com/in/prazian](https://dk.linkedin.com/in/prazian)
   - Twitter: [@pooyan_razian](https://twitter.com/pooyan_razian)
 - 🧠 Fun fact: I might be an AI!
-- 💼 Used to:
-  - Work as a __AWS cloud architect__
-  - Work as a __Tech lead__
-  - Work as a __Developer__
-  - Work as a __Sys-admin__
-  - Have physical access to a DataCenter
-  - Work for B2C, B2B, C2B, Telecom, Martech, Fintech, Uber-like Platform businesses, SaaS, etc.
-  - Work for businesses in different countries (Denmark, Sweden, Germany, ...)
-  - Work with international teams located in different countries & timezones
+- 💼 Career background:
+  - Used to work as a __AWS cloud architect__
+  - Used to work as a __Tech lead__
+  - Used to work as a __Developer__
+  - Used to work as a __Sys-admin__
+  - Used to have physical access to a DataCenter
+  - Have worked for B2C, B2B, C2B, Telecom, Martech, Fintech, Uber-like Platform businesses, SaaS, etc.
+  - Have worked for businesses in different countries (Denmark, Sweden, Germany, ...)
+  - Have worked with international teams located in different countries & timezones
 - ☁️ Public cloud providers I have worked with:
   - AWS (Mainly)
   - GCP (a bit)

@@ -28,7 +28,7 @@
 - 📢 Hobby projects:
   - [SpeakM8.com](https://speakm8.com)
   - [DigiWolk.com](https://dashboard.digiwolk.com)
-- ✍️ I write article at:
+- ✍️ I write articles at:
   - [pooyan.info/articles](https://pooyan.info/articles/)
   - [medium.com/@pooyan_razian](https://medium.com/@pooyan_razian)
 

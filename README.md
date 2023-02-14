@@ -13,10 +13,11 @@
 - 🧠 Fun fact: I might be an AI!
 - 💼 Career background:
   - Used to work as a __AWS cloud architect__
-  - Used to work as a __Tech lead__
-  - Used to work as a __Developer__
   - Used to work as a __Sys-admin__
-  - Used to have physical access to a DataCenter
+  - Used to work as a __Tech lead__
+  - Used to work as a __Backend Developer__
+  - Used to work as a __Fullstack Developer__
+  - Used to have physical access to multiple large-scale Datacenters
   - Have worked for B2C, B2B, C2B, Telecom, Martech, Fintech, Uber-like Platform businesses, SaaS, etc.
   - Have worked for businesses in different countries (Denmark, Sweden, Germany, ...)
   - Have worked with international teams located in different countries & timezones

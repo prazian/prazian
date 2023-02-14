@@ -3,7 +3,7 @@
 - ⚡ I mostly convert code into cloud (sometimes with bugs 🐞)
 - 🔒 Mainly working on employers' & customers' private repositories. (GitHub, GitLab, BitBucket, ...)
 - 💼 Currently working as a __DevSecOps__ 👽 in Copenhagen, Denmark
-- ✅ Certified by AWS (Security specialty, Architect, Developer)
+- ✅ A few certifications: AWS Security specialty, AWS Architect, AWS Developer
 - 🤖 Technical interests: DevOps, DevSecOps, AWS cloud, Docker, k8s, IT security, IaC, IaS, TS, JS, Go, Python, VueJs, ...
 - 🌱 Currently learning: IT security, IT compliance, product design, ...
 - ✉️ How to contact me?

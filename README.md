@@ -12,7 +12,7 @@
   - Twitter: [@pooyan_razian](https://twitter.com/pooyan_razian)
 - 🧠 Fun fact: I might be an AI!
 - 💼 Career background:
-  - Used to work as a __AWS cloud architect__
+  - Used to work as an __AWS cloud architect__
   - Used to work as a __Sys-admin__
   - Used to work as a __Tech lead__
   - Used to work as a __Backend Developer__

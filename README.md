@@ -2,7 +2,7 @@
 
 - ⚡ I mostly convert code into cloud (sometimes with bugs 🐞)
 - 🔒 Mainly working on employers' & customers' private repositories. (GitHub, GitLab, BitBucket, ...)
-- 💼 Currently working as a __DevSecOps__ 👽 in Copenhagen, Denmark
+- 💼 Currently working as a __AWS cloud architect__ / __DevSecOps__ 👽 in Copenhagen, Denmark
 - ✅ A few certifications: AWS Security specialty, AWS Architect, AWS Developer
 - 🤖 Technical interests: DevOps, DevSecOps, AWS cloud, Docker, k8s, IT security, IaC, IaS, TS, JS, Go, Python, VueJs, ...
 - 🌱 Currently learning: IT security, IT compliance, product design, ...
@@ -11,22 +11,6 @@
   - LinkedIn: [linkedin.com/in/prazian](https://dk.linkedin.com/in/prazian)
   - Twitter: [@pooyan_razian](https://twitter.com/pooyan_razian)
 - 🧠 Fun fact: I might be an AI!
-- 💼 Career background:
-  - Used to work as an __AWS cloud architect__
-  - Used to work as a __Sys-admin__
-  - Used to work as a __Tech lead__
-  - Used to work as a __Backend Developer__
-  - Used to work as a __Fullstack Developer__
-  - Used to work as a __consultant__
-  - Used to have physical access to multiple large-scale Datacenters
-  - Have worked for B2C, B2B, C2B, Telecom, Martech, Fintech, Uber-like Platform businesses, SaaS, etc.
-  - Have worked for businesses in different countries (Denmark, Sweden, Germany, ...)
-  - Have worked with international teams located in different countries & timezones
-- ☁️ Public cloud providers I have worked with:
-  - AWS (Mainly)
-  - GCP (a bit)
-  - Azure (a bit)
-  - DigitalOcean (a bit)
 - 📢 Hobby projects:
   - [SpeakM8.com](https://speakm8.com)
   - [DigiWolk.com](https://dashboard.digiwolk.com) (is not up and running these days)

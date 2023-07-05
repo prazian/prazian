@@ -1,11 +1,9 @@
 ### Hi I'm Pooyan! 👋
 
-- ⚡ I mostly convert code into cloud (sometimes with bugs 🐞)
+- ⚡ I mainly convert code into the cloud (sometimes with bugs 🐞)
 - 🔒 Mainly working on employers' & customers' private repositories. (GitHub, GitLab, BitBucket, ...)
-- 💼 Currently working as a __AWS cloud architect__ / __DevSecOps__ 👽 in Copenhagen, Denmark
 - ✅ A few certificates: AWS Security specialty, AWS Architect, AWS Developer
 - 🤖 Technical interests: DevOps, DevSecOps, AWS cloud, Docker, k8s, IT security, IaC, IaS, TS, JS, Go, Python, VueJs, ...
-- 🌱 Currently studying: How to improve DX, product design, ...
 - ✉️ How to contact me?
   - Personal portfolio: [pooyan.info/contact](https://pooyan.info/contact)
   - LinkedIn: [linkedin.com/in/prazian](https://dk.linkedin.com/in/prazian)

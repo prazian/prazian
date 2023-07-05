@@ -9,7 +9,6 @@
 - ✉️ How to contact me?
   - Personal portfolio: [pooyan.info/contact](https://pooyan.info/contact)
   - LinkedIn: [linkedin.com/in/prazian](https://dk.linkedin.com/in/prazian)
-  - Twitter: [@pooyan_razian](https://twitter.com/pooyan_razian)
 - 🧠 Fun fact: I might be an AI!
 - 📢 Hobby projects:
   - [SpeakM8.com](https://speakm8.com)

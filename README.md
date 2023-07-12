@@ -8,7 +8,8 @@
   - Personal portfolio: [pooyan.info/contact](https://pooyan.info/contact)
   - LinkedIn: [linkedin.com/in/prazian](https://dk.linkedin.com/in/prazian)
 - 🧠 Fun fact: I might be an AI!
-- 📢 Hobby projects:
+- 📢 Projects:
+  - [M2Text.com](https://m2text.com) - Media2Text convertor
   - [SpeakM8.com](https://speakm8.com)
   - [DigiWolk.com](https://dashboard.digiwolk.com) (is not up and running these days)
   - a few more ...

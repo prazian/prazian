@@ -9,7 +9,8 @@
   - LinkedIn: [linkedin.com/in/prazian](https://dk.linkedin.com/in/prazian)
 - 🧠 Fun fact: I might be an AI!
 - 📢 Projects:
-  - [M2Text.com](https://m2text.com) - AI Tools around media
+  - [MindNations.com](https://mindnations.com) - Baking 👨‍🍳
+  - [M2Text.com](https://m2text.com) - AI toolchain for video & audio
   - [SpeakM8.com](https://speakm8.com) (disabled - cost saving)
   - [DigiWolk.com](https://dashboard.digiwolk.com) (disabled - cost saving)
   - a few more ...

@@ -18,6 +18,10 @@
   - [OSS license auditor](https://github.com/digi-wolk/oss-license-auditor)
   - [olaudit License Audit Github Action](https://github.com/digi-wolk/olaudit-action)
   - [Open AI image generator](https://github.com/prazian/open-ai-image-generate)
+- Some of my other public profiles (not showing activities)
+  - [gitlab.com/pr-kodlot](https://gitlab.com/pr-kodlot)
+  - [github.com/kompasbank-pooyan](https://github.com/kompasbank-pooyan)
+  - [github.com/pooyan-et](https://github.com/pooyan-et)
 - ✍️ I write articles at:
   - [pooyan.info/articles](https://pooyan.info/articles/)
   - [medium.com/@pooyan_razian](https://medium.com/@pooyan_razian)

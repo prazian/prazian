@@ -1,5 +1,6 @@
 ### Hi I'm Pooyan! 👋
 
+- 💪 A certified 10x code Ninja goolakh software developer! ([here is the certificate](https://github.com/prazian/how_to_become_10x_developer))
 - ⚡ I mainly convert code into the cloud (sometimes with bugs 🐞)
 - 🔒 Mainly working on employers' & customers' & own private repositories. (GitHub, GitLab, BitBucket, ...)
 - ✅ A few certificates: AWS Security specialty, AWS Architect, AWS Developer

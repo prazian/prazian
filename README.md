@@ -3,8 +3,8 @@
 - 💪 A certified 10x code Ninja goolakh software developer! ([here is the certificate](https://github.com/prazian/how_to_become_10x_developer))
 - ⚡ I mainly convert code into the cloud (sometimes with bugs 🐞)
 - 🔒 Mainly working on employers' & customers' & own private repositories. (GitHub, GitLab, BitBucket, ...)
-- ✅ A few certificates: AWS Security specialty, AWS Architect, AWS Developer
-- 🤖 Technical interests: AWS cloud, Docker, IaC, IaS, TS, JS, GoLang, Python, VueJs, k8s, IT security, DevOps, DevSecOps, ...
+- ✅ A few certificates: AWS Solutions Architect Professional, AWS Security specialty, AWS Developer, etc.
+- 🤖 Technical interests: TS, JS, GoLang, Python, VueJs, AWS cloud, Docker, IaC, IaS, k8s, IT security, DevOps, DevSecOps, ...
 - ✉️ How to contact me?
   - Personal portfolio: [pooyan.info/contact](https://pooyan.info/contact)
   - LinkedIn: [linkedin.com/in/prazian](https://dk.linkedin.com/in/prazian)
@@ -16,10 +16,11 @@
   - [DigiWolk.com](https://dashboard.digiwolk.com) (disabled - cost saving)
   - a few more ...
 - A few open-source projects:
+  - [Delete Old GitHub Actions Runs](https://github.com/marketplace/actions/delete-old-github-actions-runs)
   - [OSS license auditor](https://github.com/digi-wolk/oss-license-auditor)
   - [olaudit License Audit Github Action](https://github.com/digi-wolk/olaudit-action)
   - [Open AI image generator](https://github.com/prazian/open-ai-image-generate)
-- Some of my other public profiles (not showing activities)
+- Some of my other past public profiles (not showing activities)
   - [gitlab.com/pr-kodlot](https://gitlab.com/pr-kodlot)
   - [github.com/kompasbank-pooyan](https://github.com/kompasbank-pooyan)
   - [github.com/pooyan-et](https://github.com/pooyan-et)

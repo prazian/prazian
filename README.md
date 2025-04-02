@@ -1,9 +1,9 @@
 ### Hi I'm Pooyan! 👋
 
-- ⚡ I mainly convert code into the cloud (sometimes with bugs 🐞)
+- ⚡ I mainly write code and ship it to the cloud (sometimes with bugs 🐞)
 - 🔒 Mainly working on employers' & customers' & own private repositories. (GitHub, GitLab, BitBucket, ...)
 - ✅ A few certificates: AWS Solutions Architect Professional, AWS Security specialty, AWS Developer, etc.
-- 🤖 Technical interests: TS, JS, GoLang, Python, VueJs, AWS cloud, Docker, IaC, IaS, k8s, IT security, DevOps, DevSecOps, ...
+- 🤖 Technical interests: GoLang, Python, TS, JS, VueJs, AWS cloud, Linux, Docker, IaC, IaS, k8s, cybersecurity, ...
 - 💪 A "certified" 10x code Ninja goolakh software developer!! ([here is the certificate](https://github.com/prazian/how_to_become_10x_developer))
 - ✉️ How to contact me?
   - Personal portfolio: [pooyan.info/contact](https://pooyan.info/contact)
@@ -27,4 +27,3 @@
 - ✍️ I write articles at:
   - [pooyan.info/articles](https://pooyan.info/articles/)
   - [medium.com/@pooyan_razian](https://medium.com/@pooyan_razian)
-

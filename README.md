@@ -1,19 +1,19 @@
 ### Hi I'm Pooyan! 👋
 
-- 💪 A certified 10x code Ninja goolakh software developer! ([here is the certificate](https://github.com/prazian/how_to_become_10x_developer))
 - ⚡ I mainly convert code into the cloud (sometimes with bugs 🐞)
 - 🔒 Mainly working on employers' & customers' & own private repositories. (GitHub, GitLab, BitBucket, ...)
 - ✅ A few certificates: AWS Solutions Architect Professional, AWS Security specialty, AWS Developer, etc.
 - 🤖 Technical interests: TS, JS, GoLang, Python, VueJs, AWS cloud, Docker, IaC, IaS, k8s, IT security, DevOps, DevSecOps, ...
+- 💪 A "certified" 10x code Ninja goolakh software developer!! ([here is the certificate](https://github.com/prazian/how_to_become_10x_developer))
 - ✉️ How to contact me?
   - Personal portfolio: [pooyan.info/contact](https://pooyan.info/contact)
   - LinkedIn: [linkedin.com/in/prazian](https://dk.linkedin.com/in/prazian)
 - 🧠 Fun fact: I might be an AI!
-- 📢 Projects:
-  - [MindNations.com](https://mindnations.com) - Baking 👨‍🍳
-  - [M2Text.com](https://m2text.com) - AI toolchain for video & audio
-  - [SpeakM8.com](https://speakm8.com) (disabled - cost saving)
-  - [DigiWolk.com](https://dashboard.digiwolk.com) (disabled - cost saving)
+- 📢 Projects: (founder's journey)
+  - [MindNations.com](https://mindnations.com) - (disabled - end of project)
+  - [M2Text.com](https://m2text.com) - (disabled - end of project)
+  - [SpeakM8.com](https://speakm8.com) (disabled - end of project)
+  - [DigiWolk.com](https://dashboard.digiwolk.com) (disabled - end of project)
   - a few more ...
 - A few open-source projects:
   - [Delete Old GitHub Actions Runs](https://github.com/marketplace/actions/delete-old-github-actions-runs)

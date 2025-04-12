@@ -8,7 +8,7 @@
 - ✉️ How to contact me?
   - Personal portfolio: [pooyan.info/contact](https://pooyan.info/contact)
   - LinkedIn: [linkedin.com/in/prazian](https://dk.linkedin.com/in/prazian)
-- 🧠 Fun fact: I might be an AI!
+- 🧠 Fun fact: I might be an AI! (sometimes)
 - 📢 Projects: (founder's journey)
   - [MindNations.com](https://mindnations.com) - (disabled - end of project)
   - [M2Text.com](https://m2text.com) - (disabled - end of project)

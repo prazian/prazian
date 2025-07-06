@@ -5,6 +5,10 @@
 - ✅ A few certificates: AWS Solutions Architect Professional, AWS Security specialty, AWS Developer, etc.
 - 🤖 Technical interests: GoLang, Python, TS, JS, VueJs, AWS cloud, Linux, Docker, IaC, IaS, k8s, cybersecurity, ...
 - 💪 A "certified" 10x code Ninja goolakh software developer!! ([here is the certificate](https://github.com/prazian/how_to_become_10x_developer))
+- 🎙️ These days, I make music using AI:
+  - Artist on [Spotify](https://open.spotify.com/artist/2QeROc9rid00ezMt7gQhoR)
+  - Hyperfollow link for the album [Project Izrael exposed](https://distrokid.com/hyperfollow/pooyanrazian/project-izrael-exposed)
+  - Hyperfollow link for the single [Godless thrones](https://distrokid.com/hyperfollow/pooyanrazian/godless-thrones)
 - ✉️ How to contact me?
   - Personal portfolio: [pooyan.info/contact](https://pooyan.info/contact)
   - LinkedIn: [linkedin.com/in/prazian](https://dk.linkedin.com/in/prazian)

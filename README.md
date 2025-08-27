@@ -6,12 +6,17 @@
 - 🤖 Technical interests: GoLang, Python, TS, JS, VueJs, AWS cloud, Linux, Docker, IaC, IaS, k8s, cybersecurity, ...
 - 💪 A "certified" 10x code Ninja goolakh software developer!! ([here is the certificate](https://github.com/prazian/how_to_become_10x_developer))
 - 🎙️ These days, I make music using AI:
-  - Artist on [Spotify](https://open.spotify.com/artist/2QeROc9rid00ezMt7gQhoR)
-  - Hyperfollow link for the album [Project Izrael exposed](https://distrokid.com/hyperfollow/pooyanrazian/project-izrael-exposed)
-  - Hyperfollow link for the single [Godless thrones](https://distrokid.com/hyperfollow/pooyanrazian/godless-thrones)
+  - Artist on [Spotify](https://open.spotify.com/artist/2QeROc9rid00ezMt7gQhoR) (Spotify censored the truth)
+  - My [music channel on Youtube](https://www.youtube.com/@pooyan-razian-music)
+  - My [channel on Aparat](https://www.aparat.com/yan_iran)
+- 🎙️ My Youtube channels:
+  - [Pooyan Razian - Music](https://www.youtube.com/@pooyan-razian-music) (My AI Generated music videos)
+  - [Pooyan Razian - English](https://www.youtube.com/@pooyan-razian) (English tech content)
+  - [Pooyan Razian - Farsi](https://www.youtube.com/@pooyan-razian-fa) (personal vlog)
 - ✉️ How to contact me?
   - Personal portfolio: [pooyan.info/contact](https://pooyan.info/contact)
   - LinkedIn: [linkedin.com/in/prazian](https://dk.linkedin.com/in/prazian)
+  - My company: [Yanovian LLC](https://yanovian.com/contact)
 - 🧠 Fun fact: I might be an AI! (sometimes)
 - 📢 Projects: (founder's journey)
   - [MindNations.com](https://mindnations.com) - (disabled - end of project)
@@ -31,3 +36,4 @@
 - ✍️ I write articles at:
   - [pooyan.info/articles](https://pooyan.info/articles/)
   - [medium.com/@pooyan_razian](https://medium.com/@pooyan_razian)
+  - [yaniran.substack.com](https://yaniran.substack.com)

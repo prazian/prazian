@@ -1,5 +1,8 @@
 ### Hi I'm Pooyan! 👋
 
+Ranked #1 most active GitHub users in Armenia!  
+[![committers.top badge](https://user-badge.committers.top/armenia_public/prazian.svg)](https://user-badge.committers.top/armenia_public/prazian)
+
 - ⚡ I mainly write code and ship it to the cloud (sometimes with bugs 🐞)
 - 🔒 Mainly working on employers' & customers' & own private repositories. (GitHub, GitLab, BitBucket, ...)
 - ✅ A few certificates: AWS Solutions Architect Professional, AWS Security specialty, AWS Developer, etc.
@@ -46,3 +49,9 @@
   - [medium.com/@pooyan_razian](https://medium.com/@pooyan_razian)
   - [yaniran.substack.com](https://yaniran.substack.com)
 -->
+
+<p align="center">
+  Source: <a href="https://committers.top/armenia_public">https://committers.top/armenia_public</a>
+  <img width="527" height="501" alt="Pooyan Razian" src="https://github.com/user-attachments/assets/024947d9-e2ee-414a-ac20-384a8a760f5c" />
+</p>
+

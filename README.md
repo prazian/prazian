@@ -11,6 +11,7 @@ A man who never gets too old; a "reflection of the creator" who never dies!
 - ✅ A few certificates: AWS Solutions Architect Professional, AWS Security specialty, AWS Developer, etc.
 - 🤖 Technical interests: GoLang, Python, TS, JS, VueJs, AWS cloud, Linux, Docker, IaC, IaS, k8s, cybersecurity, ...
 - 💪 A "certified" 10x code Ninja goolakh software developer!! ([here is the certificate](https://github.com/prazian/how_to_become_10x_developer))
+- You can read some of [my previous articles here](https://github.com/prazian/articles).
 <!-- 
 - 🎙️ These days, I make music using AI:
   - Artist on [Spotify](https://open.spotify.com/artist/2QeROc9rid00ezMt7gQhoR) (Spotify censored the truth)

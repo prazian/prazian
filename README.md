@@ -4,7 +4,8 @@
 [![committers.top badge](https://user-badge.committers.top/armenia_public/prazian.svg)](https://user-badge.committers.top/armenia_public/prazian)  
 PS: Those of you who know, you know...
 
-Okay, who am I?
+Okay, who am I?  
+A man who never gets too old; a "reflection of the creator" who never dies!
 - ⚡ I mainly write code and ship it to the cloud (sometimes with bugs 🐞)
 - 🔒 Mainly working on employers' & customers' & own private repositories. (GitHub, GitLab, BitBucket, ...)
 - ✅ A few certificates: AWS Solutions Architect Professional, AWS Security specialty, AWS Developer, etc.

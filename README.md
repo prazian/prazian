@@ -55,7 +55,7 @@ A man who never gets too old; a "reflection of the creator" who never dies!
 -->
 
 <p align="center">
-  Source: <a href="https://committers.top/armenia_public">https://committers.top/armenia_public</a>
+  Source: <a href="https://committers.top/armenia_public">https://committers.top/armenia_public</a><br>
   <img width="527" height="501" alt="Pooyan Razian" src="https://github.com/user-attachments/assets/024947d9-e2ee-414a-ac20-384a8a760f5c" />
 </p>
 

@@ -1,5 +1,7 @@
 ### Hi, I'm Pooyan! 👋
 
+Motto: **Bug 🐞** = (**code** x **AI**^2) / **coffee ☕**
+
 2025: Ranked #1 most active GitHub users in AM!  
 [![committers.top badge](https://user-badge.committers.top/armenia_public/prazian.svg)](https://user-badge.committers.top/armenia_public/prazian)  
 PS: Those of you who know, you know...

@@ -1,12 +1,30 @@
 ### Hi, I'm Pooyan! 👋
 
 Motto: **Bug 🐞** = (**code** x **AI**^2) / **coffee ☕**
+---
 
+Main tech expertise:
+- Programming: TypeScript, Python, Golang
+- AWS Cloud (since 2018)
+
+What I have done before (but not focused on these days):
+- a bit of JAVA and PHP (long time ago)
+- Used to be a Linux admin and have even been in Datacenters!
+
+Hobbies:
+- cybersecurity:
+  - I won a security hackathon a few years ago at PurpleScout (Adesso Sweden)
+  - I was among the top 0.1% cybersecurity expert employees in Accenture globally (with an elite internal badge)
+  - Have studied CEH, but I cannot say I'm an "expert" in this field.
+
+Jiberish ad:
+---
 2025: Ranked #1 most active GitHub users in AM!  
 [![committers.top badge](https://user-badge.committers.top/armenia_public/prazian.svg)](https://user-badge.committers.top/armenia_public/prazian)  
 PS: Those of you who know, you know...
 
-Okay, who am I?  
+Okay, who am I?
+---
 - ⚡ I mainly write code and ship it to the cloud (sometimes with bugs 🐞)
 - 🔒 Mainly working on employers' & customers' & own private repositories. (GitHub, GitLab, BitBucket, ...)
 - ✅ A few certificates: AWS Solutions Architect Professional, AWS Security specialty, AWS Developer, etc.
@@ -39,12 +57,6 @@ Okay, who am I?
   - [github.com/kompasbank-pooyan](https://github.com/kompasbank-pooyan)
   - [github.com/pooyan-et](https://github.com/pooyan-et)
  
-Hobbies:
-- cybersecurity:
-  - I won a security hackathon a few years ago at PurpleScout (Adesso Sweden)
-  - I was among the top 0.1% cybersecurity expert employees in Accenture globally (with an elite internal badge)
-  - Have studied CEH, but I cannot say I'm an "expert" in this field.
-
 <p align="center">
   Source: <a href="https://committers.top/armenia_public">https://committers.top/armenia_public</a><br>
   <img width="527" height="501" alt="Pooyan Razian" src="https://github.com/user-attachments/assets/024947d9-e2ee-414a-ac20-384a8a760f5c" />

@@ -15,7 +15,7 @@ Hobbies:
 - cybersecurity:
   - I won a security hackathon a few years ago at PurpleScout (Adesso Sweden)
   - I was among the top 0.1% cybersecurity expert employees in Accenture globally (with an elite internal badge)
-  - Have studied CEH, but I cannot say I'm an "expert" in this field.
+  - Have studied CEH (Ethical Hacking), but I'm far from being an "expert" in this field.
 
 Jiberish ad:
 ---

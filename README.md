@@ -4,7 +4,8 @@ Motto: **Bug 🐞** = (**code** x **AI**^2) / **coffee ☕**
 ---
 
 Main tech expertise:
-- Programming: TypeScript, Python, Golang
+- Programming: TypeScript (mainly backend), Python, Golang
+- Solution Architecture: both software and cloud, hands-on
 - AWS Cloud (since 2018)
 
 What I have done before (but not focused on these days):

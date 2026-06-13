@@ -12,13 +12,13 @@ What I have done before (but not focused on these days):
 - A bit of JAVA and PHP (long time ago)
 - Used to be a Linux admin and have even been in Datacenters!
 
-Hobbies:
-- cybersecurity:
+Tech hobbies:
+- Cybersecurity:
   - I won a security hackathon a few years ago at PurpleScout (Adesso Sweden)
   - I was among the top 0.1% cybersecurity expert employees in Accenture globally (with an elite internal badge)
-  - Have studied CEH (Ethical Hacking), but I'm far from being an "expert" in this field.
+  - Have studied CEH (Ethical Hacking), but I'm far from being an "expert" in this field
 
-Jiberish ad:
+Gibberish ad:
 ---
 2025: Ranked #1 most active GitHub users in AM!  
 [![committers.top badge](https://user-badge.committers.top/armenia_public/prazian.svg)](https://user-badge.committers.top/armenia_public/prazian)  

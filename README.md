@@ -9,8 +9,8 @@ Main tech expertise:
 - AWS Cloud (since 2018)
 
 What I have done before (but not focused on these days):
-- A bit of JAVA and PHP (long time ago)
-- Used to be a Linux admin and have even been in Datacenters!
+- A bit of Java (three projects), C++ (one project), and PHP (long time ago)
+- Used to be a Linux admin (15-20 years ago) and have even seen inside some important datacenters!
 
 Tech hobbies:
 - Cybersecurity:

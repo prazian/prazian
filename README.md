@@ -3,19 +3,21 @@
 Motto: **Bug 🐞** = (**code** x **AI**^2) / **coffee ☕**
 ---
 
+Need help? Feel free to [contact me](https://pooyan.info/contact)  
+
 Main tech expertise:
 - Programming: TypeScript (mainly backend), Python, Golang
 - Solution Architecture: both software and cloud, hands-on
 - AWS Cloud (since 2018)
 
 What I have done before (but not focused on these days):
-- A bit of Java (three projects), C++ (one project), and PHP (long time ago)
-- Used to be a Linux admin (15-20 years ago) and have even seen inside some important datacenters!
+- A bit of Java (three projects), C++ (one project), and PHP (a long time ago)
+- Used to be a Linux admin (15-20 years ago) and have even seen inside some important data centers!
 
 Tech hobbies:
 - Cybersecurity:
   - I won a security hackathon a few years ago at PurpleScout (Adesso Sweden)
-  - I was among the top 0.1% cybersecurity expert employees in Accenture globally (with an elite internal badge)
+  - I was among the top 0.1% of cybersecurity expert employees in Accenture globally (with an elite internal badge)
   - Have studied CEH (Ethical Hacking), but I'm far from being an "expert" in this field
 
 Gibberish ad:

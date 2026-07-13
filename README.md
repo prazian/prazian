@@ -53,8 +53,9 @@ Okay, who am I?
   - [DigiWolk.com](https://dashboard.digiwolk.com) (disabled - end of project)
   - a few more ...
 - Chrome extensions:
-  - [Why am I here?](https://github.com/yanovian/chrome-ext-why-am-i-here)
-  - [Breadcrumb](https://github.com/yanovian/chrome-ext-breadcrumb)
+  - [Tabby](https://yanovian.github.io/chrome-ext-tabby/)
+  - [Why am I here?](https://yanovian.github.io/chrome-ext-why-am-i-here/)
+  - [Breadcrumb](https://yanovian.github.io/chrome-ext-breadcrumb/)
 - A few open-source projects:
   - [Delete Old GitHub Actions Runs](https://github.com/marketplace/actions/delete-old-github-actions-runs)
   - [OSS license auditor](https://github.com/digi-wolk/oss-license-auditor)

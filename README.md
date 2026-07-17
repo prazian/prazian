@@ -59,7 +59,7 @@ Okay, who am I?
 - A few other open-source projects:
   - [🛡️ Open License Auditor](https://github.com/yanovian/open-license-auditor)
   - [📦 Update Dependencies](https://github.com/yanovian/update-dependencies-action)
-  - [🗑️ Delete Old GitHub Actions Runs](https://github.com/yanovian/delete-old-actions)
+  - [🗑️ Prune Old GitHub Actions Runs](https://github.com/yanovian/delete-old-actions)
 - Some of my other past public profiles (not showing activities)
   - [gitlab.com/pr-kodlot](https://gitlab.com/pr-kodlot)
   - [github.com/kompasbank-pooyan](https://github.com/kompasbank-pooyan)

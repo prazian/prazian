@@ -52,14 +52,14 @@ Okay, who am I?
   - [SpeakM8.com](https://speakm8.com) (disabled - end of project)
   - [DigiWolk.com](https://dashboard.digiwolk.com) (disabled - end of project)
   - a few more ...
-- Chrome extensions:
+- Chrome extensions (OSS):
   - [Tabby](https://yanovian.github.io/chrome-ext-tabby/)
   - [Why am I here?](https://yanovian.github.io/chrome-ext-why-am-i-here/)
   - [Breadcrumb](https://yanovian.github.io/chrome-ext-breadcrumb/)
-- A few open-source projects:
-  - [Delete Old GitHub Actions Runs](https://github.com/marketplace/actions/delete-old-github-actions-runs)
-  - [OSS license auditor](https://github.com/digi-wolk/oss-license-auditor)
-  - [olaudit License Audit Github Action](https://github.com/digi-wolk/olaudit-action)
+- A few other open-source projects:
+  - [🛡️ Open License Auditor](https://github.com/yanovian/open-license-auditor)
+  - [📦 Update Dependencies](https://github.com/yanovian/update-dependencies-action)
+  - [🗑️ Delete Old GitHub Actions Runs](https://github.com/yanovian/delete-old-actions)
 - Some of my other past public profiles (not showing activities)
   - [gitlab.com/pr-kodlot](https://gitlab.com/pr-kodlot)
   - [github.com/kompasbank-pooyan](https://github.com/kompasbank-pooyan)

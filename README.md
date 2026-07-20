@@ -6,9 +6,11 @@ Motto: **Bug 🐞** = (**code** x **AI**^2) / **coffee ☕**
 Need help? Feel free to [contact me](https://pooyan.info/contact)  
 
 Main tech expertise:
-- Programming: TypeScript (mainly backend), Python, Golang
-- Solution Architecture: both software and cloud, hands-on
+- Programming: TypeScript (mainly backend), Python, Golang (since 2011)
+- Solution Architecture: both software and cloud (hands-on, since 2019)
 - AWS Cloud (since 2018)
+- Used to be a Linux admin & have seen inside datacenters (2012-2014)
+- Began programming with QBasic, PHP, and a bit of Java (1995-2010)
 
 What I have done before (but not focused on these days):
 - A bit of Java (three projects), C++ (one project), and PHP (a long time ago)

@@ -45,6 +45,7 @@ Okay, who am I?
   - Personal portfolio: [pooyan.info/contact](https://pooyan.info/contact)
 - 🧠 Fun fact: I might be an AI! (sometimes)
 - 📢 Active business: (founder's journey in Armenia)
+  - [Kissed](http://kissed.app)
   - [Yanovian LLC](https://yanovian.com)
   - [SaveVideo.Site](https://savevideo.site)
 - 📢 Previous projects: (founder's journey in Denmark/Estonia/Yerevan)
